@@ -43,7 +43,7 @@ function Footer() {
           {/* Social Icons Section */}
           <div className="col-md-3">
             <p className="mb-2">Follow Us</p>
-            <div className="social-icons">
+            <div className="social-icons-footer">
               <a href="#" className="btn btn-dark rounded-circle p-1 me-2 social-icon">
                 <i className="bi bi-twitter"></i>
               </a>
